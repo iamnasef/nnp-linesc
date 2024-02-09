@@ -2,14 +2,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="-R-supports/imgs/covers.png" />
+  <img src="supports/imgs/covers.png" />
 </p>
 
-<img src="supports/imgs/-R-written-in-yaml.svg"/>
-<img src="supports/imgs/-R-made-with-ansible.svg"/>
+<img src="supports/imgs/regarding-the-linux-privilege-escalation.svg"/>
+<img src="supports/imgs/hosted-on-linux.svg"/>
 <br />
 <br />
--xxx- is a -genere- security challenge and vulnerable machine.
+Nasef's No Permission #1 (LinESC) is a linux privilege escalation security challenge and vulnerable machine.
 
 I wanted to create a challenge for both enteratainment and education .
 
@@ -30,12 +30,17 @@ I wanted to create a challenge for both enteratainment and education .
 
 ## Installation
 
-## Target
+1. Download the machine from the [following link](https://www.vulnhub.com/entry/linesc-1,616/)
+2. Open the machine using vmware, and it will start running smoothly
 
+## Target
+Obtain root privileges with 7 different ways.
+Default credentials : (muhammad:nasef)
 ## Technologies
 
 | Application                                         | Description                                  
-| --------------------------------------------------- |---------------------------------------------            
+| --------------------------------------------------- |---------------------------------------------   
+| [Linux](https://www.linux.org/)    | A family of open-source Unix-like operating systems based on the Linux kernel             
 | [Markdown](https://www.markdownguide.org/)    | A reference guide that explains how to use markdown                                 
 
 ## Contact Me
